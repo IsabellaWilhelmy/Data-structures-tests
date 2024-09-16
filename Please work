@@ -1,0 +1,7 @@
+echo "# Data-structures-tests" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IsabellaWilhelmy/Data-structures-tests.git
+git push -u origin main
